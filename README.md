@@ -1,6 +1,6 @@
-# StudentApp
+# Smart Student Analytics Platform
 #my 2nd Project
-# Student Management App
+# AI-Powered Student Management System
 
 This is a basic Java CLI app to manage student names.
 
